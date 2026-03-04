@@ -4,11 +4,9 @@
 Ce tableau récapitule l'ensemble des permissions disponibles pour chaque grade du staff.
 {% endhint %}
 
----
-
 ## Modérateur Test
 
-> Période d'essai de 7 à 14 jours. Permissions limitées.
+> Période d'essai de 7 à 14 jours — Permissions limitées.
 
 | Permission | Commande | Accès |
 | --- | --- | --- |
@@ -30,7 +28,7 @@ Ce tableau récapitule l'ensemble des permissions disponibles pour chaque grade 
 | Kick | `/kick [id] [raison]` | ✅ |
 | Warn | `/warn [id] [raison]` | ✅ |
 | Spectate | `/spectate [id]` | ✅ |
-| Ban temporaire | `/ban [id] [durée] [raison]` | ✅ (7 jours max) |
+| Ban temporaire | `/ban [id] [durée] [raison]` | ✅ (7j max) |
 | Noclip | `/noclip` | ✅ |
 | Téléportation | `/tp [id]` | ✅ |
 | Bring | `/bring [id]` | ✅ |
@@ -48,11 +46,11 @@ Ce tableau récapitule l'ensemble des permissions disponibles pour chaque grade 
 
 ## Administrateur
 
-> Toutes les permissions Modérateur + permissions avancées.
+> Toutes les permissions Modérateur + gestion avancée.
 
 | Permission | Commande | Accès |
 | --- | --- | --- |
-| Toutes les commandes Modérateur | — | ✅ |
+| Toutes commandes Modérateur | — | ✅ |
 | Ban permanent | `/ban [id] 0 [raison]` | ✅ |
 | Unban | `/unban [id/licence]` | ✅ |
 | Give items | `/give [id] [item] [qté]` | ✅ |
@@ -73,7 +71,7 @@ Ce tableau récapitule l'ensemble des permissions disponibles pour chaque grade 
 
 ## Fondateur
 
-> Accès total et illimité à toutes les commandes et tous les systèmes.
+> Accès total et illimité.
 
 | Permission | Accès |
 | --- | --- |
@@ -88,7 +86,7 @@ Ce tableau récapitule l'ensemble des permissions disponibles pour chaque grade 
 
 ---
 
-## Tableau comparatif complet
+## Tableau comparatif
 
 | Permission | Mod Test | Mod | Admin | Fondateur |
 | --- | --- | --- | --- | --- |

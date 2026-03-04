@@ -1,21 +1,21 @@
-# Article 7 — Recrutement et période d'essai
+# Recrutement et période d'essai
 
 {% hint style="info" %}
 La période d'essai permet de vérifier que le candidat possède les qualités requises pour intégrer le staff.
 {% endhint %}
 
----
+## Les règles
 
 **7.1** — Tout nouveau membre du staff commence en tant que **Modérateur Test** pour une durée de **7 à 14 jours**.
 
-**7.2** — Durant cette période, le membre est **évalué** sur les critères suivants :
+**7.2** — Durant cette période, le membre est **évalué** sur :
 
-> * Comportement et maturité
-> * Réactivité face aux situations
-> * Impartialité dans les décisions
-> * Connaissance des règles du serveur
-> * Capacité à travailler en équipe
-> * Présence et activité
+* Comportement et maturité
+* Réactivité face aux situations
+* Impartialité dans les décisions
+* Connaissance des règles du serveur
+* Capacité à travailler en équipe
+* Présence et activité
 
 **7.3** — La validation ou le refus de la période d'essai est décidée par un **Administrateur ou le Fondateur**.
 
@@ -25,9 +25,7 @@ La période d'essai permet de vérifier que le candidat possède les qualités r
 
 **7.6** — Un Modérateur Test peut être **renvoyé à tout moment** durant sa période d'essai sans justification obligatoire.
 
----
-
-### Processus de recrutement
+## Processus de recrutement
 
 | Étape | Description |
 | --- | --- |

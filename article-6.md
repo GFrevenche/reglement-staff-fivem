@@ -1,14 +1,16 @@
-# Article 6 — Hiérarchie et respect
+# Hiérarchie et respect
 
 {% hint style="info" %}
 Le respect de la hiérarchie garantit une organisation efficace et une prise de décision cohérente.
 {% endhint %}
 
----
-
-**6.1** — Chaque membre du staff doit **respecter la hiérarchie** en place :
+## Ordre hiérarchique
 
 > **Modérateur Test** → **Modérateur** → **Administrateur** → **Fondateur**
+
+## Les règles
+
+**6.1** — Chaque membre du staff doit **respecter la hiérarchie** en place.
 
 **6.2** — Les décisions d'un **supérieur hiérarchique** doivent être respectées. En cas de désaccord, en discuter en privé.
 
@@ -23,5 +25,5 @@ Le respect de la hiérarchie garantit une organisation efficace et une prise de 
 ---
 
 {% hint style="warning" %}
-Tout manque de respect envers un supérieur sera sanctionné (voir Article 10).
+Tout manque de respect envers un supérieur sera sanctionné (voir [sanctions internes](article-10.md)).
 {% endhint %}

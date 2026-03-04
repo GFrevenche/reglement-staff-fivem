@@ -1,10 +1,10 @@
-# Article 9 — Communication et professionnalisme
+# Communication
 
 {% hint style="info" %}
 Une bonne communication au sein du staff est essentielle pour assurer un suivi efficace du serveur.
 {% endhint %}
 
----
+## Les règles
 
 **9.1** — Le staff doit être présent et **réactif sur Discord** pour répondre aux tickets et demandes des joueurs.
 
@@ -18,9 +18,7 @@ Une bonne communication au sein du staff est essentielle pour assurer un suivi e
 
 **9.6** — Lors d'une prise en charge, le staff doit **informer le joueur** qu'il s'occupe de sa demande et le tenir au courant de l'avancement.
 
----
-
-### Bonnes pratiques
+## Bonnes pratiques
 
 | A faire | A ne pas faire |
 | --- | --- |

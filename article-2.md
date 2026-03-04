@@ -1,10 +1,10 @@
-# Article 2 — Confidentialité
+# Confidentialité
 
 {% hint style="danger" %}
 La confidentialité est une règle absolue. Toute violation entraîne un renvoi immédiat.
 {% endhint %}
 
----
+## Les règles
 
 **2.1** — Les informations internes du staff (décisions, discussions, sanctions en cours, problèmes internes) sont **strictement confidentielles**.
 

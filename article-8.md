@@ -1,10 +1,10 @@
-# Article 8 — Double compte et multi-serveur
+# Double staff et multi-serveur
 
 {% hint style="danger" %}
 Le cumul de postes staff sur plusieurs serveurs concurrents est strictement interdit.
 {% endhint %}
 
----
+## Les règles
 
 **8.1** — Un membre du staff ne peut **pas être staff** sur un autre serveur FiveM concurrent en même temps.
 
@@ -17,5 +17,5 @@ Le cumul de postes staff sur plusieurs serveurs concurrents est strictement inte
 ---
 
 {% hint style="info" %}
-Si vous souhaitez rejoindre le staff d'un autre serveur, vous devez d'abord démissionner proprement (voir Article 11).
+Si vous souhaitez rejoindre le staff d'un autre serveur, vous devez d'abord démissionner proprement (voir [Démission et départ](article-11.md)).
 {% endhint %}

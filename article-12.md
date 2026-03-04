@@ -1,10 +1,10 @@
-# Article 12 — Acceptation du règlement
+# Acceptation du règlement
 
 {% hint style="success" %}
 En intégrant le staff, vous vous engagez à respecter chaque point de ce règlement.
 {% endhint %}
 
----
+## Les règles
 
 **12.1** — En intégrant le staff, chaque membre confirme avoir **lu, compris et accepté** l'intégralité de ce règlement.
 
@@ -18,4 +18,6 @@ En intégrant le staff, vous vous engagez à respecter chaque point de ce règle
 
 ---
 
-> En cas de question ou de doute sur un article, contactez un Administrateur ou le Fondateur.
+{% hint style="info" %}
+En cas de question ou de doute sur un article, contactez un **Administrateur** ou le **Fondateur**.
+{% endhint %}

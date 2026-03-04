@@ -1,10 +1,10 @@
-# Article 1 — Engagement et attitude
+# Engagement et attitude
 
 {% hint style="info" %}
-Cet article définit le comportement attendu de chaque membre du staff en toute circonstance.
+Le staff représente le serveur. Son comportement doit être irréprochable en toute circonstance.
 {% endhint %}
 
----
+## Les règles
 
 **1.1** — Tout membre du staff s'engage à représenter le serveur de manière **professionnelle et respectueuse** en toute circonstance.
 
@@ -19,5 +19,5 @@ Cet article définit le comportement attendu de chaque membre du staff en toute 
 ---
 
 {% hint style="warning" %}
-Un membre du staff qui ne respecte pas ces règles de conduite s'expose à des sanctions internes (voir Article 10).
+Un membre du staff qui ne respecte pas ces règles de conduite s'expose à des [sanctions internes](article-10.md).
 {% endhint %}

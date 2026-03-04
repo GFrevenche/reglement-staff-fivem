@@ -1,14 +1,10 @@
-# Article 10 — Sanctions internes
+# Sanctions internes
 
 {% hint style="danger" %}
 Le non-respect du règlement par un membre du staff entraîne des sanctions progressives pouvant aller jusqu'au renvoi définitif.
 {% endhint %}
 
----
-
-## Barème des sanctions staff
-
-### Abus de commandes
+## Abus de commandes
 
 | Infraction | 1ère fois | 2ème fois | 3ème fois |
 | --- | --- | --- | --- |
@@ -16,7 +12,7 @@ Le non-respect du règlement par un membre du staff entraîne des sanctions prog
 | Abus de commande grave (give perso, avantage ami) | Rétrogradation | Renvoi | — |
 | Utilisation de commandes en PvP | Avertissement | Rétrogradation | Renvoi |
 
-### Comportement
+## Comportement
 
 | Infraction | 1ère fois | 2ème fois | 3ème fois |
 | --- | --- | --- | --- |
@@ -24,14 +20,14 @@ Le non-respect du règlement par un membre du staff entraîne des sanctions prog
 | Irrespect envers un supérieur | Avertissement | Rétrogradation | Renvoi |
 | Favoritisme prouvé | Rétrogradation | Renvoi | — |
 
-### Activité et présence
+## Activité et présence
 
 | Infraction | 1ère fois | 2ème fois | 3ème fois |
 | --- | --- | --- | --- |
 | Inactivité non justifiée | Avertissement | Rétrogradation | Renvoi |
-| Ban sans preuve (+ de 24h) | Annulation du ban + Avertissement | Rétrogradation | Renvoi |
+| Ban sans preuve (+ de 24h) | Annulation + Avertissement | Rétrogradation | Renvoi |
 
-### Fautes graves (renvoi immédiat)
+## Fautes graves — Renvoi immédiat
 
 | Infraction | Sanction |
 | --- | --- |

@@ -1,10 +1,10 @@
-# Article 11 — Démission
+# Démission et départ
 
 {% hint style="info" %}
 Quitter le staff est un droit, mais cela doit se faire dans les règles pour garantir une transition propre.
 {% endhint %}
 
----
+## Les règles
 
 **11.1** — Tout membre souhaitant quitter le staff doit en **informer un Administrateur ou le Fondateur** au minimum **48 heures** à l'avance.
 
@@ -16,9 +16,7 @@ Quitter le staff est un droit, mais cela doit se faire dans les règles pour gar
 
 **11.5** — La **confidentialité reste de mise** même après avoir quitté le staff. Toute fuite d'information post-départ entraînera un ban permanent du serveur.
 
----
-
-### Résumé
+## Récapitulatif
 
 | Type de départ | Conséquence |
 | --- | --- |
