@@ -50,44 +50,14 @@ Ce barème sert de référence pour appliquer des sanctions cohérentes et propo
 
 ---
 
-## Autres infractions
-
-### Infractions légères
-
-| Infraction | 1ère fois | 2ème fois | 3ème fois |
-| --- | --- | --- | --- |
-| Insultes dans le chat | Warn | Mute 1h | Ban 1 jour |
-| Spam / Flood | Mute 30min | Mute 2h | Ban 1 jour |
-| Publicité pour un autre serveur | Warn | Ban 1 jour | Ban 3 jours |
-| Provocation / Toxicité | Warn | Mute 1h | Ban 1 jour |
-| Micro ouvert / Nuisance sonore | Mute 30min | Mute 2h | Ban 1 jour |
-
-### Infractions moyennes
-
-| Infraction | 1ère fois | 2ème fois | 3ème fois |
-| --- | --- | --- | --- |
-| Irrespect envers le staff | Warn | Ban 1 jour | Ban 3 jours |
-| Bug exploit (mineur) | Warn + retrait des gains | Ban 1 jour | Ban 3 jours |
-| Usurpation d'identité | Ban 1 jour | Ban 3 jours | Ban 7 jours |
-| Refus de coopérer avec le staff | Warn | Ban 1 jour | Ban 3 jours |
-
-### Infractions graves
-
-| Infraction | 1ère fois | 2ème fois | 3ème fois |
-| --- | --- | --- | --- |
-| Bug exploit (majeur / économie) | Ban 3 jours | Ban 7 jours | Ban permanent |
-| Insultes racistes / discriminatoires | Ban 3 jours | Ban 7 jours | Ban permanent |
-| Harcèlement d'un joueur | Ban 3 jours | Ban 7 jours | Ban permanent |
-
-### Ban immédiat
+## Ban immédiat
 
 | Infraction | Sanction |
 | --- | --- |
 | Cheat / Hack / Mod menu | Ban permanent |
 | Menaces réelles (doxx, DDOS, IRL) | Ban permanent |
 | Tentative de crash serveur | Ban permanent |
-| Injection de code malveillant | Ban permanent |
-| Contenu NSFW / illégal | Ban permanent |
+| Bug exploit (majeur / économie) | Ban permanent |
 
 ---
 
