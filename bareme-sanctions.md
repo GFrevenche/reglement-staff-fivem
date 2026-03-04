@@ -6,60 +6,70 @@ Ce barème sert de référence pour appliquer des sanctions cohérentes et propo
 
 ## Kill Ragdoll
 
-| Offense | Sanction |
-| --- | --- |
-| 1ère offense | 2 heures |
-| 2ème offense | 1 jour |
-| 3ème offense | 1 semaine |
+| Offense      | Sanction   |
+| ------------ | ---------- |
+| 1ère offense | 2 heures   |
+| 2ème offense | 1 jour     |
+| 3ème offense | 1 semaine  |
 | 4ème offense | 2 semaines |
 
 ## Freekill
 
-| Offense | Sanction |
-| --- | --- |
-| 1ère offense | 2 heures |
-| 2ème offense | 8 heures |
-| 3ème offense | 1 semaine |
+| Offense      | Sanction   |
+| ------------ | ---------- |
+| 1ère offense | 2 heures   |
+| 2ème offense | 8 heures   |
+| 3ème offense | 1 semaine  |
 | 4ème offense | 2 semaines |
 
 ## Pit / Carkill
 
-| Offense | Sanction |
-| --- | --- |
+| Offense      | Sanction |
+| ------------ | -------- |
 | 1ère offense | 2 heures |
-| 2ème offense | 2 jours |
+| 2ème offense | 2 jours  |
 
 ## Non respect PRESS
 
-| Offense | Sanction |
-| --- | --- |
-| 1ère offense | 2 heures |
+| Offense      | Sanction  |
+| ------------ | --------- |
+| 1ère offense | 2 heures  |
 | 2ème offense | 12 heures |
 
 ## Non respect WAGER
 
-| Offense | Sanction |
-| --- | --- |
+| Offense      | Sanction  |
+| ------------ | --------- |
 | 1ère offense | 12 heures |
 
 ## Arnaques
 
-| Offense | Sanction |
-| --- | --- |
+| Offense      | Sanction      |
+| ------------ | ------------- |
 | 1ère offense | **PERMANENT** |
 
----
+***
+
+| Infraction                      | 1ère fois | 2ème fois  | 3ème fois   |
+| ------------------------------- | --------- | ---------- | ----------- |
+| Publicité pour un autre serveur | Warn      | Ban 1 jour | Ban 3 jours |
+| Provocation / Toxicité          | Warn      | Mute 1h    | Ban 1 jour  |
+
+| Infraction                      | 1ère fois   | 2ème fois   | 3ème fois     |
+| ------------------------------- | ----------- | ----------- | ------------- |
+| Bug exploit (majeur / économie) | Ban 3 jours | Ban 7 jours | Ban permanent |
+| Harcèlement d'un joueur         | Ban 3 jours | Ban 7 jours | Ban permanent |
 
 ## Ban immédiat
 
-| Infraction | Sanction |
-| --- | --- |
-| Cheat / Hack / Mod menu | Ban permanent |
+| Infraction                        | Sanction      |
+| --------------------------------- | ------------- |
+| Cheat / Hack / Mod menu           | Ban permanent |
 | Menaces réelles (doxx, DDOS, IRL) | Ban permanent |
-| Tentative de crash serveur | Ban permanent |
-| Bug exploit (majeur / économie) | Ban permanent |
+| Tentative de crash serveur        | Ban permanent |
+| Bug exploit (majeur / économie)   | Ban permanent |
 
----
+***
 
 {% hint style="warning" %}
 * Les sanctions sont **cumulatives** — un joueur avec 3 warns actifs sera automatiquement ban 1 jour.
